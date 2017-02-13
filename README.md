@@ -15,5 +15,5 @@ can't keep up anymore or it can be a timed game.
 #Custom Controller Concept
 
 For this game, I will be creating 2 hammers with pressure sensors in them, labelled as the left and right hammer. 
-Instead of just pushing some buttosn to activate the compactors, the player will hit these hammers against something, 
+Instead of just pushing some buttons to activate the compactors, the player will hit these hammers against something, 
 activating the pressure sensor in the end of them.
