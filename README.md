@@ -17,18 +17,18 @@ done.
 
 # Mechanics
 
-- Compacting -
+- Compacting 
 
 The central part of the game is the mechanics of crushing trash pieces that come towards the compactors at the right time, avoiding 
 compacting any objects that aren't meant to be compacting. The player will have to compact the right objects at the right time in order 
 to increase their mutliplier, build their score up and stop the game from ending due to a lack of trash compacting. Over time, the trash 
 will come quicker and move frequently in order to challenge the player further. The compacting action will happen when the player pushes the corresponding finger cymbals together.
 
-- High Scores -
+- High Scores 
 
 Part of the motivation for the player will be the inclusion of high scores. This will jsut derive from the score they are able to get 
 while playing, by the inclusion of high score adds a competitive element, making it more like that the player will come back to try 
-beating other scores/
+beating other scores.
 
 
 # Custom Controller Concept
